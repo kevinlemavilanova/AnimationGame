@@ -15,6 +15,10 @@ class fragment_left : Fragment() {
             left.arguments = args
             return left
         }
+        var cont = 0
+        fun GiroIzq (){
+            cont++
+        }
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

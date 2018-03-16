@@ -15,6 +15,10 @@ class fragment_right : Fragment() {
             right.arguments = args
             return right
         }
+        var cont = 0
+        fun GiroRgh (){
+            cont++
+        }
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

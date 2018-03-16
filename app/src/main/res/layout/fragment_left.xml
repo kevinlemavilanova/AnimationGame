@@ -8,13 +8,13 @@
 
     <ImageView
         android:id="@+id/imgLeft"
-        android:layout_width="81dp"
-        android:layout_height="132dp"
+        android:layout_width="296dp"
+        android:layout_height="455dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:src="?attr/actionModeShareDrawable"
+        android:src="@drawable/puerta"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
